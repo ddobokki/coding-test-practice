@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7c03de3-2d31-42ba-a745-42917c3cb8fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/완전탐색/42840.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/스택_큐/42583.py" beforeDir="false" afterPath="$PROJECT_DIR$/스택_큐/42583.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/완전탐색/42839.py" beforeDir="false" afterPath="$PROJECT_DIR$/완전탐색/42839.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/해쉬/42579.py" beforeDir="false" afterPath="$PROJECT_DIR$/해쉬/42579.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +31,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1pLGPJhAayXeCqSVHp8A8il6K6B" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,8 +43,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.42840">
-    <configuration name="42586" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ddobo\Desktop\코딩테스트 연습\coding-test-practice\힙" />
+      <recent name="C:\Users\ddobo\Desktop\코딩테스트 연습\coding-test-practice\깊이너비 우선 탐색" />
+      <recent name="C:\Users\ddobo\Desktop\코딩테스트 연습\coding-test-practice\동적계획법" />
+      <recent name="C:\Users\ddobo\Desktop\코딩테스트 연습\coding-test-practice\그래프" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.12938_최고의 집합">
+    <configuration name="카카오1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-test-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/스택_큐" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/스택_큐/42586.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/카카오1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="42587" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12904_가장 긴 팰린드롬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-test-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/스택_큐" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/스택_큐/42587.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/12904_가장 긴 팰린드롬.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="42627" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12927_야근지수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-test-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/힙" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/힙/42627.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ddobo\Desktop\코딩테스트 연습\coding-test-practice\힙\12927_야근지수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="42628" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12938_최고의 집합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-test-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/힙" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/힙/42628.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/12938_최고의 집합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="42840" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="카카오2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-test-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/완전탐색" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/완전탐색/42840.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/카카오2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.42840" />
-        <item itemvalue="Python.42587" />
-        <item itemvalue="Python.42586" />
-        <item itemvalue="Python.42628" />
-        <item itemvalue="Python.42627" />
+        <item itemvalue="Python.12938_최고의 집합" />
+        <item itemvalue="Python.12904_가장 긴 팰린드롬" />
+        <item itemvalue="Python.12927_야근지수" />
+        <item itemvalue="Python.카카오2" />
+        <item itemvalue="Python.카카오1" />
       </list>
     </recent_temporary>
   </component>
@@ -176,5 +188,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
