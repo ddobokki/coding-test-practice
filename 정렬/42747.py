@@ -12,7 +12,6 @@ def solution(citations):
         print(citations[i] - i)
         if(citations[i] - i <= 0):
             return i
-            break
 
     return num_of_citation
 
